@@ -1,0 +1,44 @@
+################################################################
+# Syntax Coloring Map
+################################################################
+# Class
+################################################################
+
+UTFT_GFX_Fonts	KEYWORD1
+
+################################################################
+# Methods and Functions
+################################################################
+
+print	KEYWORD2
+printNumI	KEYWORD2
+printNumF	KEYWORD2
+setFont	KEYWORD2
+getFont	KEYWORD2
+getFontXsize	KEYWORD2
+getFontYsize	KEYWORD2
+setColor	KEYWORD2
+setBackColor	KEYWORD2
+setTextColor	KEYWORD2
+
+################################################################
+# Constants
+################################################################
+
+VGA_BLACK	LITERAL1
+VGA_WHITE	LITERAL1
+VGA_RED	LITERAL1
+VGA_GREEN	LITERAL1
+VGA_BLUE	LITERAL1
+VGA_SILVER	LITERAL1
+VGA_GRAY	LITERAL1
+VGA_MAROON	LITERAL1
+VGA_YELLOW	LITERAL1
+VGA_OLIVE	LITERAL1
+VGA_LIME	LITERAL1
+VGA_AQUA	LITERAL1
+VGA_TEAL	LITERAL1
+VGA_NAVY	LITERAL1
+VGA_FUCHSIA	LITERAL1
+VGA_PURPLE	LITERAL1
+VGA_TRANSPARENT	LITERAL1
