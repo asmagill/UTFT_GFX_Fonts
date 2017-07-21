@@ -23,7 +23,7 @@ Portions based on code from [UTFT library](http://www.rinkydinkelectronics.com/l
 * [Adafruit-GFX-Library](https://github.com/adafruit/Adafruit-GFX-Library)
 * [UTFT library](http://www.rinkydinkelectronics.com/library.php?id=51)
 * [Example Fonts](http://www.rinkydinkelectronics.com/r_fonts.php)
-* [_Seeed TFT Touch Shield V1](https://github.com/asmagill/Seeed_GFX_TFT)
+* [Adafruit GFX class for Seeed TFT Touch Shield V1](https://github.com/asmagill/Seeed_GFX_TFT)
 
 ### License
 
